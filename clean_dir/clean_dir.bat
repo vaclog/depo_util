@@ -1,0 +1,1 @@
+python.exe clean_dir.bat > C:\LOGS\clean_dir.txt
